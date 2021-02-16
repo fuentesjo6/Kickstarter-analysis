@@ -29,4 +29,7 @@ Although we had an enormous amount of data, I believe we could have gotten deepe
 
 ## Results
 
-I would tell Louise based on the data that we have to launch her Kickstarter campaign in May or June to have the highest rate of success and to keep the goals between the amounts of $1,000 to $20,000. She should have a higher rate of success if she stays within these ranges.
+- The Outcomes based on Launch Date tell us that May has the highest rate of successful campaigns. It also tells us that when a campaign for Theater is started it is almost never cancelled meaning that the campaign is hopefull until the end.
+
+- Outcomes based on goals tells me that if the goal is kept under $20,000 it has higher chance of meeting its goal than if the goal is higher than $20,000.
+
