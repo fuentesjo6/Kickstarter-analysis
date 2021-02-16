@@ -29,7 +29,10 @@ Although we had an enormous amount of data, I believe we could have gotten deepe
 
 ## Results
 
-- The Outcomes based on Launch Date tell us that May has the highest rate of successful campaigns. It also tells us that when a campaign for Theater is started it is almost never cancelled meaning that the campaign is hopefull until the end.
+- Two conclusions we can draw from the Outcomes based on launch date are that May has the highest rate of successful campaigns. It also tells us that when a campaign for Theater is started it is almost never cancelled meaning that the campaign is hopefull until the end.
 
 - Outcomes based on goals tells me that if the goal is kept under $20,000 it has higher chance of meeting its goal than if the goal is higher than $20,000.
 
+- The data is limited to the genre of the subcategories and the area of the country where the campaings have been collected from. We can determine with much more certainty if Lousie would be sucessful if the data was narrowed down more. 
+
+- I would have used a stacked bar graph to give an easier view of the comparision between eacn outcome. Since we used percentages the stacked bar graph would add up to 100% and allow the differeces to be seen much easier. 
